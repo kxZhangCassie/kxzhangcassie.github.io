@@ -6,15 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <div style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6;">
-    
-Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
-\\
+ <p> Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology.</p>
 
-My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis. \\
+ <p> My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis.</p>
 
-I am on the 2025-2026 job market and welcome discussions about my research！
-
+<p> I am on the 2025-2026 job market and welcome discussions about my research! </p>
 </div>
 
 <br>
