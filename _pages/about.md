@@ -8,15 +8,19 @@ redirect_from:
 ---
 
 <div style="max-width: 800px; margin: 0 auto; padding: 0 20px; line-height: 1.6;">
-<div style="text-align: justify;">
 
+<p style="text-align: justify; margin-bottom: 1.5em;">
 Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
+</p>
 
+<p style="text-align: justify; margin-bottom: 1.5em;">
 My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis.
+</p>
 
+<p style="text-align: justify;">
 I am on the 2025-2026 job market and welcome discussions about my research！
+</p>
 
-</div>
 </div>
 
 <br>
