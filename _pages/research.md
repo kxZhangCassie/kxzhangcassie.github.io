@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- 示例格式：
-## Working Papers
+## Job Market Paper
 - **Paper Title 1**  
   *Journal Name*, Conditionally Accepted  
   [[PDF]](/files/paper1.pdf) [[SSRN]](link) [[Code]](link)
