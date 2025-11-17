@@ -21,9 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-avata: "/images/profile.jpeg"
+
 author:
   # Biographic information
+  picture          : "images/profile.jpeg"
+  avata:           : "images/profile.jpeg"
   name             : "Kaixi Zhang (張凱夕)"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Economics"
