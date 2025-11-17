@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
+
 Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
 
 My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis.
@@ -14,5 +16,9 @@ I am on the 2025-2026 job market and welcome discussions about my research！
 
 <br>
 <div style="text-align: center;">
-    <img src="/images/cassie.JPG" alt="Twilight on the Seine" style="max-width: 300px; border-radius: 8px;">
+    <img src="/images/cassie.JPG" alt="Kaixi Zhang at the Musée d'Orsay" style="max-width: 300px; border-radius: 8px;">
+    <!-- name -->
+    <div style="text-align: right; font-family: serif; font-style: italic; margin-top: 8px; color: #555; font-size: 1.1em;">
+        Twilight on the Seine
+    </div>
 </div>
