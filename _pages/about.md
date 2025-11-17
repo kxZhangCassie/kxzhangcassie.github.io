@@ -18,9 +18,9 @@ I am on the 2025-2026 job market and welcome discussions about my research！
 
 <br>
 <div style="text-align: center;">
-    <img src="/images/cassie.JPG" alt="Kaixi Zhang at the Musée d'Orsay" style="max-width: 500px; border-radius: 8px;">
+    <img src="/images/cassie.JPG" alt="Kaixi Zhang at the Musée d'Orsay" style="width: 80%; max-width: 600px; border-radius: 8px;">
 </div>
 
-<div style="text-align: right; font-family: serif; font-style: italic; margin-top: 8px; color: #555; font-size: 1.1em;">
+<div style="text-align: right; font-family: serif; font-style: italic; margin-top: 8px; color: #555; font-size: 1.1em; padding-right: 10%;">
     Twilight on the Seine
 </div>
