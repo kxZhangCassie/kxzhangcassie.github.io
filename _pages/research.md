@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Interests
-
 My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis.
 
 {% if site.author.googlescholar %}
