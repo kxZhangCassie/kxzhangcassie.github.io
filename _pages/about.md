@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 <br>
 
 Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
@@ -23,4 +23,6 @@ I am on the 2025-2026 job market and welcome discussions about my research！
 
 <div style="text-align: right; font-family: serif; font-style: italic; margin-top: 8px; color: #555; font-size: 1.1em; padding-right: 10%;">
     Twilight on the Seine
+</div>
+
 </div>
