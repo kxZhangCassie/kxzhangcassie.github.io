@@ -24,8 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 
 author:
   # Biographic information
-  picture          : "images/profile.jpeg"
-  avata:           : "images/profile.jpeg"
+  avatar           : "profile.png"
   name             : "Kaixi Zhang (張凱夕)"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Economics"
