@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <style>
-.hidden-title {
+.page__title {
     display: none;
 }
 .no-border-btn {
@@ -24,18 +24,9 @@ author_profile: false
 }
 </style>
 
-<script>
-// 隐藏页面标题
-document.addEventListener('DOMContentLoaded', function() {
-    const pageTitle = document.querySelector('.page__title');
-    if (pageTitle) {
-        pageTitle.style.display = 'none';
-    }
-});
-</script>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh;">
+<div style="padding: 20px;">
     <a href="/files/cv.pdf" class="no-border-btn">
         Download CV as PDF
     </a>
+</div>
 </div>
