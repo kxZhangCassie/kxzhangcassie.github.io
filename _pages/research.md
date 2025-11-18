@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**<a href="/files/QRCS.pdf" target="_blank">Quantile Regression with Censored Selection and Many Controls</a>**  
+<a href="/files/QRCS.pdf" target="_blank" style="color: #1a0dab; text-decoration: none;"><strong>Quantile Regression with Censored Selection and Many Controls</strong></a><br>
 (with Songnian Chen and Junlong Feng)
 
 <details class="no-border">
@@ -20,9 +20,9 @@ author_profile: true
 ## Working Paper
 
 <div class="working-paper-section">
-**Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model**  
-(with Songnian Chen and Junlong Feng)  
-*Status: Reject and resubmit, Journal of Econometrics*
+<strong>Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model</strong><br>
+(with Songnian Chen and Junlong Feng)<br>
+<em>Status: Reject and resubmit, Journal of Econometrics</em>
 
 <details class="no-border">
 <summary>Abstract</summary>
@@ -33,7 +33,7 @@ author_profile: true
 </div>
 
 <div class="third-paper-section">
-**<a href="/files/CFQR.pdf" target="_blank">Endogenous High-Dimensional Quantile Regression: A Control Function Approach</a>**
+<a href="/files/CFQR.pdf" target="_blank" style="color: #1a0dab; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
 
 <details class="no-border">
 <summary>Abstract</summary>
