@@ -29,4 +29,3 @@ author_profile: false
         Download CV as PDF
     </a>
 </div>
-</div>
