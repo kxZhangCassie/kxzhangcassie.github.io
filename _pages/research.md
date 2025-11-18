@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**<a href="/files/Quantile_Regression_Censored_Selection.pdf" target="_blank">Quantile Regression with Censored Selection and Many Controls</a>**  
+**<a href="/files/QRCS.pdf" target="_blank">Quantile Regression with Censored Selection and Many Controls</a>**  
 (with Songnian Chen and Junlong Feng)
 
 <details>
@@ -30,17 +30,23 @@ author_profile: true
 </div>
 </details>
 
-**<a href="/files/Endogenous_High_Dimensional_Quantile_Regression.pdf" target="_blank">Endogenous High-Dimensional Quantile Regression: A Control Function Approach</a>**
-
-<div class="paper-links">
-  <a href="/files/Endogenous_High_Dimensional_Quantile_Regression.pdf" class="btn btn--primary" target="_blank">PDF</a>
-  <a href="/files/Endogenous_High_Dimensional_Presentation.pdf" class="btn btn--info" target="_blank">Presentation</a>
-</div>
+**<a href="/files/CFQR.pdf" target="_blank">Endogenous High-Dimensional Quantile Regression: A Control Function Approach</a>**
 
 <details>
 <summary>Abstract</summary>
 <div class="abstract-content">
 <p>This paper presents a double selection estimator based on the Control Function approach for estimating a high-dimensional Quantile Regression model with endogeneity (CFQR). We have several advantages over the Instrumental Quantile Treatment Effect model (henceforth IVQR), which was proposed by Chernozhukov and Hansen (2005). First, our model is computationally simpler than high-dimensional IVQR under general conditions. IVQR relies on a hypothesized value for coefficients of interest in the first step of estimation. The iterative nature of this process is costly, especially when dealing with big data. In contrast, our methods use the function of residuals obtained from the previous step as an additional exogenous control, which is more practical for application. Furthermore, we provide inference methods for the coefficients of interest in endogenous high-dimensional quantile regression models based on orthogonal score functions, which mitigate the effects of moderate selection errors. Monte Carlo simulations also show that our estimator performs well under high-dimensional controls. In addition, we could accommodate more than one endogenous treatment depending on different economic settings. Finally, we employ our model to investigate the impact of compulsory schooling on earnings using 1530 instruments for education based on Angrist and Krueger (1991)'s research. We find that high-dimensional quantile estimates are smaller than 2SLS and OLS estimates. Schooling returns appear to be lower than in previous studies.</p>
+</div>
+</details>
+
+<details>
+<summary>Presentation</summary>
+<div class="abstract-content">
+<p>
+  <a href="/files/CFQR_Presentation.pdf" target="_blank">IAAE-Turin 2025</a>, 
+  Seminar in SUFE 2024, 
+  Workshop in HKUST 2024
+</p>
 </div>
 </details>
 
