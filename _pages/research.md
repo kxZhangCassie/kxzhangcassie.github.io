@@ -19,6 +19,7 @@ author_profile: true
 
 ## Working Paper
 
+<div class="working-paper-section">
 **Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model**  
 (with Songnian Chen and Junlong Feng)  
 *Status: Reject and resubmit, Journal of Econometrics*
@@ -29,7 +30,9 @@ author_profile: true
 <p>Arellano and Bonhomme (2017) (henceforth AB) developed a quantile selection framework and proposed a two-step semiparametric estimator for the copula parameter, which characterizes the extent of sample selection bias. In this paper, we propose a new semiparametric nonlinear least squares type estimator for the copula parameter. Our approach differs from that of AB in two distinct ways. First, unlike AB where they first estimate the copula parameter and the slope coefficients in the outcome equation iteratively since the latter depends on the former, our approach breaks such dependence via a novel reparameterization scheme and avoids such iteration. This greatly simplifies implementation and improves numerical results. Second, while the quantile selection framework is characterized by a set of conditional moment restrictions, AB's estimator of the copula parameter is based on a finite number unconditional moment restrictions. In practice, moment based estimator could encounter the global identification problem, leading to possibly poor finite sample performance. In contrast, we take a semiparametric nonlinear least squares type approach, which works with conditional moments directly, essentially making use of an infinite number of unconditional moment conditions. Our identification requirement is consequently common in traditional nonlinear regression analysis, and our identification result is expected to be more robust than identification based on a finite number of moment conditions employed by AB. We show that our estimator is consistent and asymptotically normal. Simulation results suggest superior performance of our estimator over AB's estimator.</p>
 </div>
 </details>
+</div>
 
+<div class="third-paper-section">
 **<a href="/files/CFQR.pdf" target="_blank">Endogenous High-Dimensional Quantile Regression: A Control Function Approach</a>**
 
 <details class="no-border">
@@ -49,17 +52,18 @@ author_profile: true
 </p>
 </div>
 </details>
+</div>
 
 <style>
 details.no-border {
-    margin: 15px 0;
+    margin: 8px 0;
     border: none;
     background: transparent;
 }
 details.no-border summary {
     font-weight: 600;
     cursor: pointer;
-    padding: 8px 0;
+    padding: 6px 0;
     color: #2c3e50;
     background: transparent;
     border: none;
@@ -69,7 +73,7 @@ details.no-border summary:hover {
     color: #4285f4;
 }
 .abstract-content {
-    padding: 12px 0;
+    padding: 8px 0;
     line-height: 1.6;
 }
 .abstract-content p {
@@ -82,7 +86,7 @@ a[target="_blank"] {
     text-decoration: none;
 }
 a[target="_blank"]:hover {
-    color: #660099;
+    color: #1a0dab;
     text-decoration: underline;
 }
 .abstract-content a {
@@ -90,7 +94,13 @@ a[target="_blank"]:hover {
     text-decoration: none;
 }
 .abstract-content a:hover {
-    color: #660099;
+    color: #1a0dab;
     text-decoration: underline;
+}
+.working-paper-section {
+    margin-bottom: 30px;
+}
+.third-paper-section {
+    margin-top: 25px;
 }
 </style>
