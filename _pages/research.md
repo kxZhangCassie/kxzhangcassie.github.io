@@ -23,7 +23,7 @@ author_profile: true
 <p>
   <a href="/files/JMP_Presentation.pdf" target="_blank">Slides</a>, 
   <a href="/files/JMP_Video.pdf" target="_blank">Video</a>,
-  <a href="/files/JMP_Questions.pdf" target="_blank">Questions</a>
+  <a href="https://docs.google.com/document/d/1qmwXtqDvxtJc-gVERnSkUksXeB3_uuZ6FsHeBfg4rWc/edit?tab=t.0" target="_blank">Questions</a>
 </p>
 </div>
 </details>
