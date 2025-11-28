@@ -17,6 +17,17 @@ author_profile: true
 </div>
 </details>
 
+<details class="no-border">
+<summary>Job Talk</summary>
+<div class="abstract-content">
+<p>
+  <a href="/files/JMP_Presentation.pdf" target="_blank">Slides</a>, 
+  <a href="/files/JMP_Presentation.pdf" target="_blank">Video</a>
+</p>
+</div>
+</details>
+
+
 ## Working Paper
 
 <strong>Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model</strong><br>
